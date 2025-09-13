@@ -109,6 +109,10 @@ FIGURE-01:
 <img width="1920" height="1080" alt="Screenshot 2025-09-06 154803" src="https://github.com/user-attachments/assets/3572b4dd-df6e-4e87-88ad-3c178ff79e4b" />
 
 FIGURE-02:
+<img width="1919" height="920" alt="Screenshot 2025-09-07 221520" src="https://github.com/user-attachments/assets/eec1603e-cf3e-4d6c-b1c9-b4d9514d34dd" />
+<img width="1919" height="895" alt="Screenshot 2025-09-07 221452" src="https://github.com/user-attachments/assets/68d59077-7be0-45ab-83fa-d1f1b5604707" />
+<img width="1919" height="896" alt="Screenshot 2025-09-07 221402" src="https://github.com/user-attachments/assets/3ca80adf-b7e3-4413-a804-b62a4fa97bff" />
+<img width="1919" height="897" alt="Screenshot 2025-09-07 221330" src="https://github.com/user-attachments/assets/1e104974-13d3-4eb3-9e36-fcc6c3215481" />
 
 
 ## RESULTS
