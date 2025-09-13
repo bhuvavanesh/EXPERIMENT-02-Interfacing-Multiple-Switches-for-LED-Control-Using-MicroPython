@@ -105,8 +105,8 @@ while True:
 ## OUTPUT
 
 FIGURE-01: 
-<img width="1920" height="1080" alt="Screenshot 2025-09-06 154814" src="https://github.com/user-attachments/assets/143544a0-cbe8-4b92-b0b0-1c6324197d31" />
-<img width="1920" height="1080" alt="Screenshot 2025-09-06 154803" src="https://github.com/user-attachments/assets/3572b4dd-df6e-4e87-88ad-3c178ff79e4b" />
+<img width="1919" height="916" alt="Screenshot 2025-09-07 215931" src="https://github.com/user-attachments/assets/6b41393b-b204-4f3d-b441-2bcb7a68d74d" />
+<img width="1919" height="983" alt="Screenshot 2025-09-07 215904" src="https://github.com/user-attachments/assets/4cb2053f-321b-466e-bbc6-ee1262eb36f1" />
 
 FIGURE-02:
 <img width="1919" height="920" alt="Screenshot 2025-09-07 221520" src="https://github.com/user-attachments/assets/eec1603e-cf3e-4d6c-b1c9-b4d9514d34dd" />
